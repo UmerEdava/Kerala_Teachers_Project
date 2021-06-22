@@ -3,4 +3,6 @@ console.log('hai')
 console.log('hello new one')
 
 
-console.log('hey..UMER AND ALI')
+
+console.log('hey..UMER')  
+
